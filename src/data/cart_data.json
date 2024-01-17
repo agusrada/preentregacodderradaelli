@@ -1,0 +1,28 @@
+[
+    {
+        "id": 2,
+        "title": "Colita de Cuadril",
+        "description": "Colita x kilo",
+        "price": 7990,
+        "stock": 100,
+        "category": "Vacuno",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/o/colita_1.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/o/colita_1.jpg"
+        ],
+        "quantity": 2
+    },
+    {
+        "id": 6,
+        "title": "Carre",
+        "description": "Carre x kilo",
+        "price": 4990,
+        "stock": 100,
+        "category": "Porcino",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/u/cuadril-cerdo_1.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/u/cuadril-cerdo_1.jpg"
+        ],
+        "quantity": 1
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "userId": 2,
+        "createdAt": 1679869276580,
+        "items": [
+            {
+                "id": 2,
+                "title": "Colita de Cuadril",
+                "description": "Colita x kilo",
+                "price": 7990,
+                "stock": 100,
+                "category": "Vacuno",
+                "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/o/colita_1.jpg",
+                "images": [
+                    "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/o/colita_1.jpg"
+                ],
+                "quantity": 2
+            },
+            {
+                "id": 6,
+                "title": "Carre",
+                "description": "Carre x kilo",
+                "price": 4990,
+                "stock": 100,
+                "category": "Porcino",
+                "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/u/cuadril-cerdo_1.jpg",
+                "images": [
+                    "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/u/cuadril-cerdo_1.jpg"
+                ],
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "createdAt": 1679832276580,
+        "items": [
+            {
+                "id": 4,
+                "title": "Pechito de Cerdo",
+                "description": "Pechito x kilo",
+                "price": 2600,
+                "stock": 100,
+                "category": "Porcino",
+                "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/p/e/pechito.jpg",
+                "images": [
+                    "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/p/e/pechito.jpgg"
+                ],
+                "quantity": 1
+            },
+            {
+                "id": 7,
+                "title": "Suprema",
+                "description": "Suprema x kilo",
+                "price": 4400,
+                "stock": 100,
+                "category": "Aves",
+                "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/s/u/supremas-2.jpg",
+                "images": [
+                    "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/s/u/supremas-2.jpg"
+                ],
+                "quantity": 3
+            }
+        ]
+    }
+]

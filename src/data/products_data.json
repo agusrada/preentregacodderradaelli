@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "Vacio",
+        "description": "Vacio x kilo",
+        "price": 7700,
+        "stock": 100,
+        "category": "Vacuno",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/v/a/vacio_2.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/v/a/vacio_2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Colita de Cuadril",
+        "description": "Colita x kilo",
+        "price": 7990,
+        "stock": 100,
+        "category": "Vacuno",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/o/colita_1.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/o/colita_1.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Bola de Lomo",
+        "description": "Bola x kilo",
+        "price": 4990,
+        "stock": 100,
+        "category": "Vacuno",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/b/o/bola-de-lomo.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/b/o/bola-de-lomo.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Pechito de Cerdo",
+        "description": "Pechito x kilo",
+        "price": 2600,
+        "stock": 100,
+        "category": "Porcino",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/p/e/pechito.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/p/e/pechito.jpgg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Bondiola de Cerdo",
+        "description": "Bondiola x kilo",
+        "price": 5990,
+        "stock": 100,
+        "category": "Porcino",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/b/o/bondiola_2.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/b/o/bondiola_2.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Carre",
+        "description": "Carre x kilo",
+        "price": 4990,
+        "stock": 100,
+        "category": "Porcino",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/u/cuadril-cerdo_1.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/c/u/cuadril-cerdo_1.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Suprema",
+        "description": "Suprema x kilo",
+        "price": 4400,
+        "stock": 100,
+        "category": "Aves",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/s/u/supremas-2.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/s/u/supremas-2.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Pata y Muslo",
+        "description": "Pata Muslo x kilo",
+        "price": 1500,
+        "stock": 100,
+        "category": "Aves",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/p/a/pata-muslo.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/p/a/pata-muslo.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Pollo Entero",
+        "description": "Pollo x kilo",
+        "price": 1490,
+        "stock": 100,
+        "category": "Aves",
+        "thumbnail": "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/p/o/pollo-entero.jpg",
+        "images": [
+            "https://www.res.com.ar/media/catalog/product/cache/5c6323a99e742be7b1f234e1f30e7f12/p/o/pollo-entero.jpg"
+        ]
+    }
+
+    
+]
